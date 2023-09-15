@@ -16,7 +16,7 @@ Welcome to the AI Summarizer Website project! This web application allows users 
 
 ## Demo
 
-You can check out a live demo of the AI Summarizer Website here: [Demo Link](#)
+You can check out a live demo of the AI Summarizer Website here: [Demo Link](https://summarizer.rdydika.tech/)
 
 ## Features
 
